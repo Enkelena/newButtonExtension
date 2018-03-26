@@ -5,11 +5,11 @@ we display a popup enabling them to choose an animal. Once they choose an animal
 
 It's a simple extension, but shows many of the basic concepts of the WebExtensions API:
 
-*adding a button to the toolbar
-*defining a popup panel using HTML, CSS, and JavaScript
-*injecting content scripts into web pages
-*communicating between content scripts and the rest of the extension
-*packaging resources with your extension that can be used by web pages
+* adding a button to the toolbar
+* defining a popup panel using HTML, CSS, and JavaScript
+* injecting content scripts into web pages
+* communicating between content scripts and the rest of the extension
+* packaging resources with your extension that can be used by web pages
 
 ### Testing
 * Open "about:debugging" in Firefox, click "Load Temporary Add-on", and select your manifest.json file.
